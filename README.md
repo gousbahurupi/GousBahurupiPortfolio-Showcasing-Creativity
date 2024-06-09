@@ -32,13 +32,13 @@ GousBahurupiPortfolio is a platform to showcase my skills, projects, and experie
 To get a local copy of this project up and running, follow these simple steps:
 
 1. *Clone the Repository*: 
-    
-    git clone https://github.com/your-username/GousBahurupiPortfolio.git
+
+    Go to GousBahurupiPortfolio-Showcasing-Creativity Repository Download zip file of project from there.
     
 
-2. *Navigate to the Project Directory*:
+2. *Extract the zip*:
     
-    cd GousBahurupiPortfolio
+    Extract the zip file on your pc.
     
 
 3. *Open the Website*: 
